@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'proactivechatbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62982080B8D64C36AF6440466123BC99 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_046F627C51AC4410B7F22092F61C7BD9 }}
           package: .
